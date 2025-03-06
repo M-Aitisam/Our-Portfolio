@@ -17,11 +17,11 @@ import img1 from '../../assets/clientPicture.png'
 
 const data=[
   {
-avatar:img1,
-name:'Dr. Mohsin Kamal',
-information: 'Associate Professor',
-dest : 'NUST Isb',
-review:'I am thoroughly impressed with the exceptional work you have done on the data analytics project, I have given you. Your ability to analyze, and interpret complex data sets is truly outstanding. Your findings and insights are insightful and actionable, demonstrating a mastery of data analytics techniques. Your dedication to extracting meaningful patterns and trends from data is commendable. Keep up the fantastic work!'
+
+name:'ayanees33',
+information: 'Client',
+dest : '',
+review:'I am truly impressed by your deep knowledge and willingness to help. Your ability to simplify complex topics and provide clear, actionable advice is outstanding. Your dedication and expertise make a real difference, and I greatly appreciate your support. Keep up the amazing work!'
 
   },
 
@@ -42,7 +42,7 @@ const Testimonials = () => {
         return(  
           <SwiperSlide key={index} className='testimonial'>
           <div className="client_avatar">
-            <img src={item.avatar} alt="Avatar One" />
+           
           </div>
             <h5 className='client_name'>{item.name}</h5>
             <h6 className='client_name'>{item.dest}</h6>

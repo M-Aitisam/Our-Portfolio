@@ -22,21 +22,20 @@ return (
 <article className='contact_option'>
 <AiOutlineMail className='contact_option-icon'/>
 <h4>Email</h4>
-<h5 className='email-a'>mbkanie@gmail.com</h5>
-<a href="mailto:mbkanie@gmail.com">Send a Message</a>
+<h5 className='email-a'>aitisamahmed24@gmail.com</h5>
+<a href="mailto:aitisamahmed24@gmail.com">Send a Message</a>
 </article>
 <article className='contact_option'>
 <BsMessenger className='contact_option-icon'/>
 <h4>Linkedin</h4>
 {/* <h5>Level 1 Seller</h5> */}
-<a href="linkedin.com/in/mobeen-jamshed-khattak-7895a484
-<a href=">Contact</a>
+<a href="https://www.linkedin.com/in/aitisam-ahmed-9395b62a0/">Contact</a>
 </article>
 <article className='contact_option'>
 <BsWhatsapp className='contact_option-icon'/>
 <h4>Whatsapp</h4>
-<h5>+92-331-524-7748</h5>
-<a href="https://wa.me/+92331-5247748">Send a Message</a>
+<h5>+92-3471536817</h5>
+<a href="https://wa.me/+92-3471536817">Send a Message</a>
 </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

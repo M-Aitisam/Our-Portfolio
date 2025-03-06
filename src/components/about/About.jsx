@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import img from '../../assets/mobeen2.jpg'
+import img from '../../assets/AitisamPic.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {TbFolder} from 'react-icons/tb'
@@ -20,28 +20,26 @@ const About = () => {
           <article className='about_card'>
 <FiUsers className='about_icon'/>
 <h5>Experience</h5>
-<small>7+ Years working</small>
+<small>1.5+ Years working</small>
           </article>
 
           <article className='about_card'>
 <FaAward className='about_icon'/>
 <h5>Clients</h5>
-<small>20+ World</small>
+<small>10+ World</small>
           </article>
 
           <article className='about_card'>
 <TbFolder className='about_icon'/>
 <h5>Projects</h5>
-<small>9+ Completed</small>
+<small>5+ Completed</small>
           </article>
         </div>
-        <p>Skilled management expert, business analysis professional and data analyst
-with more than seven years of industry experience .Energetic presenter and
-confident communicator with the ability to circulate information in a way that
-is clear, efficient, and beneficial for end users. Creative in finding solutions to
-problems and determining modifications for optimal use of organizational
-data. Expert at providing realistic projections and establishing various
-scenarios to determine viable process strategies to utilize.</p>
+        <p>Doing a .NET Framework internship at Air University, focusing on C# development.
+Also engaged in a DevOps internship at Bytewise, working on automation and cloud deployment.
+Developing skills in software development, CI/CD pipelines, and infrastructure management.
+Passionate about optimizing workflows and enhancing system efficiency.
+Strong communicator with a clear and practical approach to problem-solving.</p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
     </div>

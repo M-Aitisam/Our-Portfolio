@@ -20,15 +20,15 @@ const Experience = () => {
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Smart PLS</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>.NET Core | Blazer</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Tableau</h4>
-                <small className="text-light">Experienced</small>
+                <h4>SqlLite</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
@@ -41,42 +41,86 @@ const Experience = () => {
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>SPSS</h4>
+                <h4>React JS</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Power BI</h4>
+                <h4>Node JS</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>R Programming</h4>
+                <h4>MongoDb</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>R Studio</h4>
+                <h4>Linux</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Stata</h4>
-                
+                <h4>C++</h4>
+                <small className="text-light">Intermediate</small>
               </div>
-            </article>  
+            </article>
             <article className="experience_details">
               <BsFillPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Sciket Learn</h4>
+                <h4>Javascript</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>Git , GitBash </h4>
+                <small className="text-light">Experienced</small> 
+              </div>
+            </article> 
+
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>Docker</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>AWS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article> 
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>Jenkins</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>Kubernetes</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsFillPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>BitBucket</h4>
+                <small className="text-light">Experianced</small>
                 
               </div>
             </article>
