@@ -11,10 +11,6 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
-import img1 from '../../assets/clientPicture.png'
-
-
-
 const data=[
   {
 
